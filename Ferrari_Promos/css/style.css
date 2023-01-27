@@ -210,11 +210,12 @@ footer p{
 	}
 
 	.title-promo{
-		padding: 10% 0 0 5%;
+		width: 60%;
+		padding: 20% 0 0 5%;
 	}
 
 	.title-promo h2{	
-		font-size:  30px;
+		font-size:  25px;
 	}
 
 	.button{

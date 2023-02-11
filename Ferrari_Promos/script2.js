@@ -18,7 +18,7 @@ function carrossel2(){
     }
 }
 
-setInterval(carrossel2, 2300);
+setInterval(carrossel2, 2700);
 
 
 

@@ -1,3 +1,4 @@
+
 const imgs3 = document.getElementById("img3");
 const img3 = document.querySelectorAll("#img3 img");
 

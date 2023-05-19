@@ -1,3 +1,4 @@
+
 const imgs = document.getElementById("img");
 const img = document.querySelectorAll("#img img");
 
@@ -19,6 +20,9 @@ function carrossel(){
 }
 
 setInterval(carrossel, 2700);
+
+
+
 
 
 
